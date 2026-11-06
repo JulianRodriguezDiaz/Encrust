@@ -1,6 +1,6 @@
 # 🧪 Encrust - Free resin slicer for perfect prints
 
-[![Download Encrust for Windows](https://img.shields.io/badge/Download%20Encrust%20for%20Windows-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulianRodriguezDiaz/Encrust)
+[![Download Encrust for Windows](https://img.shields.io/badge/Download%20Encrust%20for%20Windows-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulianRodriguezDiaz/Encrust/releases)
 
 Encrust is a free, open-source resin slicer for MSLA and SLA 3D printers. It helps you prepare 3D models for resin printing with supports, hollowing, print-failure analysis, and a scriptable command-line interface. Encrust runs on your own computer, works offline, and keeps your model files private.
 
@@ -20,7 +20,7 @@ It is built for makers, hobbyists, small workshops, and anyone who wants a free 
 - 🧱 STL and 3MF support: Import common 3D model formats and prepare them for MSLA or SLA printing.
 -# 🧪 Encrust - Free resin slicer for perfect prints
 
-[![Download Encrust for Windows](https://img.shields.io/badge/Download%20Encrust%20for%20Windows-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulianRodriguezDiaz/Encrust)
+[![Download Encrust for Windows](https://img.shields.io/badge/Download%20Encrust%20for%20Windows-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulianRodriguezDiaz/Encrust/releases)
 
 Encrust is a free, open-source resin slicer for MSLA and SLA 3D printers. It helps you prepare 3D models for resin printing with supports, hollowing, print-failure analysis, and a scriptable command-line interface. The application runs on your own computer, works offline, and keeps your model files private. This README explains what Encrust does, how to download it on Windows, and how to begin using it for your resin printing projects.
 
@@ -35,7 +35,7 @@ Encrust includes the tools you need to prepare resin prints with less guesswork.
 - Support tools for resin models: Add and manage supports so overhanging parts and disconnected areas have a better chance of printing correctly. Supports act as temporary structures that hold up parts of the model while the resin hardens.
 - Hollowing for resin saving: Hollow solid models to reduce resin use and make large# 🧪 Encrust - Free resin slicer for perfect prints
 
-[![Download Encrust for Windows](https://img.shields.io/badge/Download%20Encrust%20for%20Windows-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulianRodriguezDiaz/Encrust)
+[![Download Encrust for Windows](https://img.shields.io/badge/Download%20Encrust%20for%20Windows-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulianRodriguezDiaz/Encrust/releases)
 
 Encrust is a free, open-source resin slicer for MSLA and SLA 3D printers. It helps you prepare 3D models for resin printing with supports, hollowing, print-failure analysis, and a scriptable command-line interface. The application runs on your own computer, works offline, and keeps your model files private. This README explains what Encrust does, how to download it on Windows, and how to begin using it for your resin printing projects.
 
@@ -59,7 +59,7 @@ Encrust includes the tools you need to prepare resin prints with less guesswork.
 
 Visit this link to download the application:
 
-[![Download Encrust for Windows](https://img.shields.io/badge/Download%20Encrust%20for%20Windows-4caf50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulianRodriguezDiaz/Encrust)
+[![Download Encrust for Windows](https://img.shields.io/badge/Download%20Encrust%20for%20Windows-4caf50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulianRodriguezDiaz/Encrust/releases)
 
 Click the download link above. On the page that opens, find the latest Windows version and download it. After the download finishes, open the downloaded file to start Encrust.
 
